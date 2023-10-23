@@ -33,7 +33,7 @@ int main(int argc, const char **argv)
     spdlog::info("Hello, {}!", "World");
 
     if (message) {
-      fmt::print("Message: '{}'\n", *message);
+      fmt::print("Message (small change for practice): '{}'\n", *message);
     } else {
       fmt::print("No Message Provided :(\n");
     }
