@@ -1,0 +1,14 @@
+# Target labels
+ _project_options-populate
+# Source files and their labels
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/CMakeFiles/_project_options-populate
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/CMakeFiles/_project_options-populate.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/CMakeFiles/_project_options-populate-complete.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/_project_options-populate-prefix/src/_project_options-populate-stamp/_project_options-populate-build.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/_project_options-populate-prefix/src/_project_options-populate-stamp/_project_options-populate-configure.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/_project_options-populate-prefix/src/_project_options-populate-stamp/_project_options-populate-download.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/_project_options-populate-prefix/src/_project_options-populate-stamp/_project_options-populate-install.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/_project_options-populate-prefix/src/_project_options-populate-stamp/_project_options-populate-mkdir.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/_project_options-populate-prefix/src/_project_options-populate-stamp/_project_options-populate-patch.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/_project_options-populate-prefix/src/_project_options-populate-stamp/_project_options-populate-test.rule
+/Users/sergespemba/Documents/Data Science/TEST_VSCODE_GIT/best_practices/_deps/_project_options-subbuild/_project_options-populate-prefix/src/_project_options-populate-stamp/_project_options-populate-update.rule
